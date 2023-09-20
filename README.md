@@ -2,7 +2,7 @@
 
 ![Ui](docs/images/Ui.png)
 
-* This is a **team project (tp) for Software Engineering (SE) students in CS2103T**.<br>
+* This is a **team project for Software Engineering (SE) students**.<br>
   Example usages:
   * Add patients and Add doctors information (particulars, patients bill, medication, etc)
   * Find the specific person and doctor
